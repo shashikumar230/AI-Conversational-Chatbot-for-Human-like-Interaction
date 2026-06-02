@@ -1,4 +1,4 @@
-# AspoAI — Setup Guide
+
 
 ## Folder Structure
 ```
@@ -17,7 +17,7 @@ AspoAI/
     ├── script.js
     └── style.css
 ```
-
+<img width="1906" height="938" alt="aspo" src="https://github.com/user-attachments/assets/ac279f91-f614-47a3-9538-4b8e30d792d2" />
 
 ---
 
@@ -36,6 +36,8 @@ python app.py
 # Aspo AI Chat Assistant
 
 A modern AI-powered chatbot built with Flask, Groq LLM (Llama 3.3 70B), SQLite, and a premium ChatGPT-style user interface.
+<img width="1894" height="930" alt="aspo1" src="https://github.com/user-attachments/assets/ad455c34-3296-4d9b-adbb-1a616f2e3e11" />
+
 
 # Features
 Modern ChatGPT-inspired UI
@@ -49,4 +51,6 @@ Knowledge Base support (knowledge.json)
 RAG support through ChromaDB (answer_from_data)
 Groq Llama 3.3 70B integration
 Responsive design for desktop and mobile
+
+<img width="1885" height="930" alt="aspo2" src="https://github.com/user-attachments/assets/32677e8f-faea-4229-9c80-9f6beb2add82" />
 
