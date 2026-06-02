@@ -1,0 +1,35 @@
+{
+  "_readme": "Yahan apne custom Q&A pairs add karo. 'keywords' mein words likho jo user ke question mein aa sakte hain. 'answer' mein woh jawab likho jo chatbot dega.",
+  "entries": [
+    {
+      "id": 1,
+      "keywords": ["price", "cost", "kitna", "pricing", "rate", "charges"],
+      "question": "What is the price?",
+      "answer": "Hamare plans teen hain:\n- **Basic**: ₹999/month\n- **Pro**: ₹2,499/month\n- **Enterprise**: Custom pricing\n\nZyada info ke liye sales@example.com pe contact karo."
+    },
+    {
+      "id": 2,
+      "keywords": ["refund", "return", "money back", "wapas", "cancel", "cancellation"],
+      "question": "Refund policy kya hai?",
+      "answer": "Hum **30-day money-back guarantee** dete hain. Agar aap 30 din ke andar satisfied nahi hain, to poora refund milega. Refund ke liye support@example.com pe email karo."
+    },
+    {
+      "id": 3,
+      "keywords": ["contact", "support", "help", "email", "phone", "call", "helpline"],
+      "question": "Support se kaise contact karein?",
+      "answer": "Aap humse in tareekon se contact kar sakte ho:\n- 📧 Email: support@example.com\n- 📞 Phone: +91-98765-43210 (Mon-Fri, 9am-6pm)\n- 💬 Live Chat: Website ke neeche right corner mein"
+    },
+    {
+      "id": 4,
+      "keywords": ["hours", "timing", "open", "close", "working hours", "available", "time"],
+      "question": "Working hours kya hain?",
+      "answer": "Hum **Monday se Friday, 9:00 AM – 6:00 PM IST** available hain. Weekends pe emergency support ke liye emergency@example.com pe email karo."
+    },
+    {
+      "id": 5,
+      "keywords": ["feature", "features", "kya karta", "capabilities", "what can", "functionality"],
+      "question": "App mein kya kya features hain?",
+      "answer": "Hamare main features:\n- ✅ AI-powered chat assistant\n- ✅ Multi-chat history\n- ✅ Dark/Light mode\n- ✅ Markdown rendering\n- ✅ Code highlighting\n- ✅ Chat rename & delete\n- ✅ Custom knowledge base"
+    }
+  ]
+}
